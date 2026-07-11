@@ -1,0 +1,6 @@
+{
+  "version": "0.1.0",
+  "tgz": "https://github.com/dooee/doo-dist/releases/download/v0.1.0/kqmd-0.1.0.tgz",
+  "plugin": "https://github.com/dooee/doo-dist/releases/download/v0.1.0/kqmd-search-plugin.zip",
+  "notes": "최초 배포 (kqmd 0.1.0 · qmd 2.6.3 · 임베딩 Qwen3-Embedding-0.6B)"
+}
