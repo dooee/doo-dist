@@ -1,6 +1,6 @@
 {
-  "version": "0.1.4",
-  "tgz": "https://github.com/dooee/doo-dist/releases/download/v0.1.4/kqmd-0.1.4.tgz",
-  "plugin": "https://github.com/dooee/doo-dist/releases/download/v0.1.4/kqmd-search-plugin.zip",
-  "notes": "Obsidian 시맨틱 검색 자원 폭주 방지(프로세스 취소 + 디바운스). 재색인 불필요 (kqmd 0.1.4 · qmd 2.6.3 · 임베딩 Qwen3-Embedding-0.6B)"
+  "version": "0.1.5",
+  "tgz": "https://github.com/dooee/doo-dist/releases/download/v0.1.5/kqmd-0.1.5.tgz",
+  "plugin": "https://github.com/dooee/doo-dist/releases/download/v0.1.5/kqmd-search-plugin.zip",
+  "notes": "Obsidian 명시적 실행 검색 UI(입력창+검색 버튼+Enter, 라이브 검색 폐기). 재색인 불필요 (kqmd 0.1.5 · qmd 2.6.3 · 임베딩 Qwen3-Embedding-0.6B)"
 }
