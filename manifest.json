@@ -1,6 +1,6 @@
 {
-  "version": "0.1.1",
-  "tgz": "https://github.com/dooee/doo-dist/releases/download/v0.1.1/kqmd-0.1.1.tgz",
-  "plugin": "https://github.com/dooee/doo-dist/releases/download/v0.1.1/kqmd-search-plugin.zip",
-  "notes": "최상위 도움말 kqmd 배너 + 고유 명령 목록(warmup/upgrade/obsidian-install). 재색인 불필요 (kqmd 0.1.1 · qmd 2.6.3 · 임베딩 Qwen3-Embedding-0.6B)"
+  "version": "0.1.2",
+  "tgz": "https://github.com/dooee/doo-dist/releases/download/v0.1.2/kqmd-0.1.2.tgz",
+  "plugin": "https://github.com/dooee/doo-dist/releases/download/v0.1.2/kqmd-search-plugin.zip",
+  "notes": "obsidian-install 볼트 자동 감지 + 폴더/위치 안내 + --here + 문구 정정. 재색인 불필요 (kqmd 0.1.2 · qmd 2.6.3 · 임베딩 Qwen3-Embedding-0.6B)"
 }
