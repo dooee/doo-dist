@@ -1,6 +1,6 @@
 {
-  "version": "0.1.7",
-  "tgz": "https://github.com/dooee/doo-dist/releases/download/v0.1.7/kqmd-0.1.7.tgz",
-  "plugin": "https://github.com/dooee/doo-dist/releases/download/v0.1.7/kqmd-search-plugin.zip",
-  "notes": "qmd update --embed(색인 후 임베딩까지 한 번에, 옵트인). 재색인 불필요 (kqmd 0.1.7 · qmd 2.6.3 · 임베딩 Qwen3-Embedding-0.6B)"
+  "version": "0.1.8",
+  "tgz": "https://github.com/dooee/doo-dist/releases/download/v0.1.8/kqmd-0.1.8.tgz",
+  "plugin": "https://github.com/dooee/doo-dist/releases/download/v0.1.8/kqmd-search-plugin.zip",
+  "notes": "search/query --obsidian: 결과에 obsidian:// 딥링크(클릭 시 Obsidian에서 열기). 재색인 불필요 (kqmd 0.1.8 · qmd 2.6.3 · 임베딩 Qwen3-Embedding-0.6B)"
 }
