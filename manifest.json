@@ -1,6 +1,6 @@
 {
-  "version": "0.1.9",
-  "tgz": "https://github.com/dooee/doo-dist/releases/download/v0.1.9/kqmd-0.1.9.tgz",
-  "plugin": "https://github.com/dooee/doo-dist/releases/download/v0.1.9/kqmd-search-plugin.zip",
-  "notes": "Obsidian 링크 자동 감지(레지스트리 기반) + 터미널 표시 OSC8 깔끔화. 재색인 불필요 (kqmd 0.1.9 · qmd 2.6.3 · 임베딩 Qwen3-Embedding-0.6B)"
+  "version": "0.1.10",
+  "tgz": "https://github.com/dooee/doo-dist/releases/download/v0.1.10/kqmd-0.1.10.tgz",
+  "plugin": "https://github.com/dooee/doo-dist/releases/download/v0.1.10/kqmd-search-plugin.zip",
+  "notes": "스킬: 결과를 [[위키링크]] 대신 [제목](obsidian://…) 마크다운 링크로 제시(터미널 클릭 가능). 재색인 불필요 (kqmd 0.1.10 · qmd 2.6.3 · 임베딩 Qwen3-Embedding-0.6B)"
 }
