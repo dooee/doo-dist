@@ -1,6 +1,6 @@
 {
-  "version": "0.1.8",
-  "tgz": "https://github.com/dooee/doo-dist/releases/download/v0.1.8/kqmd-0.1.8.tgz",
-  "plugin": "https://github.com/dooee/doo-dist/releases/download/v0.1.8/kqmd-search-plugin.zip",
-  "notes": "search/query --obsidian: 결과에 obsidian:// 딥링크(클릭 시 Obsidian에서 열기). 재색인 불필요 (kqmd 0.1.8 · qmd 2.6.3 · 임베딩 Qwen3-Embedding-0.6B)"
+  "version": "0.1.9",
+  "tgz": "https://github.com/dooee/doo-dist/releases/download/v0.1.9/kqmd-0.1.9.tgz",
+  "plugin": "https://github.com/dooee/doo-dist/releases/download/v0.1.9/kqmd-search-plugin.zip",
+  "notes": "Obsidian 링크 자동 감지(레지스트리 기반) + 터미널 표시 OSC8 깔끔화. 재색인 불필요 (kqmd 0.1.9 · qmd 2.6.3 · 임베딩 Qwen3-Embedding-0.6B)"
 }
